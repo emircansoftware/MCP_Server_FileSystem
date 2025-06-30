@@ -1,13 +1,4 @@
-MCP_Server_FileSystem, dağıtık mimarilerde ölçeklenebilir ve gerçek zamanlı dosya sistemi etkileşimlerini kolaylaştıran kapsamlı bir geliştirici aracıdır. Temel sunucu başlatma, sorunsuz modül entegrasyonu ve geliştirme ile dağıtım süreçlerini hızlandıran otomatik kurulum iş akışları sağlar.
+Genel Bakış
 
-Temel Özellikler
-🧩 Sunucu Orkestrasyonu: Ana sunucu bileşenini başlatır ve yönetir, sorunsuz çalışmayı garanti eder.
-
-🌐 Ağ Tabanlı Veri Yönetimi: Bileşenler arasında verimli veri alışverişi için dağıtık dosya işlemlerini yönetir.
-
-📁 Otomatik Dosya ve Klasör Oluşturma: Ön tanımlı içeriklerle dosya ve klasör oluşturma yardımcıları sunarak proje kurulumunu basitleştirir.
-
-✍️ Belge Oluşturma Araçları: Metin, Word, Powerpoint ve Excel belgelerini doğrudan oluşturma imkanı sunar; otomasyon ve dokümantasyon iş akışlarını destekler.
-
-⚙️ Modüler Mimari: Tutarlı ve genişletilebilir bir sistem için çeşitli araç ve modülleri entegre eder.
-
+MCP_Server_FileSystem, metin, Word, Excel ve PowerPoint dosyalarını oluşturup içerik ekleyebilen, ayrıca klasör oluşturup içerisine istenilen dosya türlerini oluşturabilen bir geliştirici aracıdır.
+Bu sistemi kullanmak için Claude Desktop içindeki config dosyasına eklemek ve kod içerisindeki dosya yollarını kendi sisteminize uygun şekilde güncellemeniz yeterlidir.
